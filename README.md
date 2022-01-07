@@ -31,6 +31,7 @@ Features in the dataset :<br/>
 11.slope<br/>
 12.ca<br/>
 13.thal<br/>
+--------------------------------------------------------------------------------------------------
 Target variable in the dataset:<br/>
 1.target<br/>
 <br/>
