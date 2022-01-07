@@ -1,5 +1,5 @@
 FUTURE READY TALENT -INTERNSHIP PROJECT<br/>
-..........................................<br/>
+-----------------------------------------------------------------------------------------------<br/>
 MICROSOFT AZURE IN HEALTH INDUSTRY<br/>
 In this project I am building a machine learning solution on Microsoft Azure and deploying it to predict whether a patient has a heart failure at an early stage.<br/>
 -----------------------------------------------------------------------------------------------<br/>
@@ -34,5 +34,6 @@ Features in the dataset :<br/>
 Target variable in the dataset:<br/>
 1.target<br/>
 <br/>
+-----------------------------------------------------------------------------------------------<br/>
 Note :0 indicate no heart disease<br/>
       1 indicate heart disease<br/>
